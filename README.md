@@ -1,5 +1,7 @@
 ## Barq Package
 
-It is recommended that you keep the repo/package name the same, but if you do change it, ensure you do a "Find all" using your IDE (or the built-in GitHub IDE by hitting the `.` key) and rename all instances of `barq_bot` to whatever your project's name is.
+Code for barq bot, a personal project I have been working on to tinker with Robotics.
 
-Note that each directory currently has at least one file in it to ensure that git tracks the files (and, consequently, that a fresh clone has direcctories present for CMake to find). These example files can be removed if required (and the directories can be removed if `CMakeLists.txt` is adjusted accordingly).
+Currently it contains URDF and Gazebo files until I get myself to but the hardware for this.
+
+Barq is very much inspired from articubot_one by Josh Newans.
